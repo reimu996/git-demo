@@ -1,5 +1,5 @@
 hello,world! hello git! hello mamba!
-hot fix!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+hot fix!!!!!!!!!!!!!!!!!!!!!!!!!!!!! hot-fix test
 hello,world! hello git! hello mamba!
 hello,world! hello git! hello mamba!
 hello,world! hello git! hello mamba!
